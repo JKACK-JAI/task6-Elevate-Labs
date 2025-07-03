@@ -14,7 +14,7 @@ To understand the principles of strong password creation, evaluate password stre
 - TryHackMe vulnerable lab (test target)
 
 
-## 🔢 Passwords Tested
+## Passwords Tested
 
 | Password                        | Strength     | Notes                        |
 |----------------------------------|--------------|------------------------------|
